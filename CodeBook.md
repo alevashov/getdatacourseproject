@@ -84,5 +84,5 @@ To build new tidy dataset filter and select commands from dplyr package were use
 
 As a final step proper descriptive names were applied to new tidy dataset
 
-Dataset was saved under d5.csv name in data directory
+Dataset was saved under d5.txt name in data directory
 ---
