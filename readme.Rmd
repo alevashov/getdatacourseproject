@@ -1,0 +1,17 @@
+---
+title: "readme"
+author: "Alex Levashov"
+date: "Saturday, April 25, 2015"
+output: html_document
+---
+
+This is course project for Coursera Getting Data course
+Source data was taken from 
+
+Here are the data for the project: 
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+Source data description - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+Manipulations with data are described in CodeBook.md file
